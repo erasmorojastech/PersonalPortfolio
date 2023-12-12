@@ -24,7 +24,7 @@ The "My Journey" section details my professional experience, from my early begin
 
 ## Projects
 
-### Case Studies and Project Carousel
+### Case Studies and Projects for Clients
 
 In the "Projects" section, I showcase a selection of my work, presented in a visually engaging carousel of images. Each project is accompanied by a brief case study, explaining the challenges, solutions, and outcomes. This section is designed to demonstrate my capabilities and the real-world impact of my work.
 
@@ -42,4 +42,4 @@ The "Get in Touch" section is an open invitation for collaboration. Whether you'
 
 ---
 
-© [2024] [Erasmo J. Rojas G]. All rights reserved.
+© 2024 | Crafted by Erasmo J. Rojas G.
