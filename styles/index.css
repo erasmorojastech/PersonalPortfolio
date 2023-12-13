@@ -2,8 +2,69 @@ body {
     height: fit-content;
 }
 
+/* Header Styles */
 #header {
     height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    padding: 0 80px;
+}
+
+.header--container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.header--left-side {
+    gap: 40px;
+}
+
+.header--right-side {
+    gap: 20px;
+    justify-content: flex-end;
+}
+
+#header--logo-btn {
+    width: 120px;
+    background: none;
+    border: none;
+}
+
+#navbar--list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.navbar--list-item-btn {
+    font-size: 2.25rem;
+    font-weight: 400px;
+    background: none;
+    border: none;
+}
+
+#header--language, .header--switch-themes{
+    width: fit-content;
+    background: none;
+    border: none;
+}
+
+#language--logo, #light-mode--logo {
+    width: 36px;
+}
+
+#header--get-in-touch-btn {
+    border: none;
+    background: none;
+    border: 1px solid black;
+    padding: 8px 12px;
+    font-size: 1.5rem;
+    font-weight: 200;
 }
 
 #main-content {
