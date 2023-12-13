@@ -40,6 +40,10 @@ The "Tools" section is where I detail the various tools and technologies I use i
 
 The "Get in Touch" section is an open invitation for collaboration. Whether you're interested in working together on a project or simply want to connect, this area provides all the necessary contact information. I encourage potential collaborators to reach out and explore the possibilities of working together.
 
+## Live Preview
+
+[Portfolio Website](https://erasmorojas.netlify.app)
+
 ---
 
 © 2024 | Crafted by Erasmo J. Rojas G.
