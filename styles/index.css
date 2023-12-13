@@ -1,12 +1,35 @@
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100vw;
+    height: fit-content;
+}
+
+#header {
+    height: 10vh;
+}
+
+#main-content {
+    height: fit-content;
+}
+
+#hero-content {
+    height: 90vh;
+}
+
+#job-experience {
     height: 100vh;
 }
 
-h1 {
-    font-size: 40px;
-    font-weight: 700;
+#projects {
+    height: 100vh;
+}
+
+#tools {
+    height: 100vh;
+}
+
+#get-in-touch {
+    height: 80vh;
+}
+
+#footer {
+    height: 20vh;
 }
